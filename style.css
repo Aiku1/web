@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+}
+
+/* a:hover {
+	text-decoration: underline;
+	font-weight: 450;
+	color: #5BA;
+}
+*/
+body {
+	color: #FFF;
+	text-align: center;
+	font-family: "Arial";
+	background-color: #1E1E1E;
+}
+
+a {
+	text-decoration: none;
+	color: #0AA;
+}
+
+a:visited {
+	color: #086;
+}
+
+a:active {
+	color: #0CC;
+}
+
+a:hover {
+	color: #4DA;
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: xx-large;
+}
+
+p.machine {
+	text-align: center;
+	font-size: x-large;
+}
